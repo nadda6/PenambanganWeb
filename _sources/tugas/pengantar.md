@@ -1,5 +1,6 @@
 # Web Mining
 
+<div style="text-align: justify">
 ## 1. Pengertian Web Mining
 Web mining adalah cara untuk mengambil informasi atau pola penting dari data yang ada di internet.  
 Data ini bisa berupa teks, gambar, video, audio, atau bahkan catatan bagaimana orang berinteraksi dengan situs web, misalnya halaman yang dikunjungi atau tombol yang diklik.  
@@ -93,3 +94,5 @@ Dengan informasi ini, perusahaan dapat menyesuaikan konten dan layanan yang dita
 
 - R. Kosala dan H. Blockeel, “Web Mining Research: A Survey,” *ACM SIGKDD Explor. Newsl.*, 2000. [Online].  
   [Tersedia di sini](https://dl)
+
+</div>
